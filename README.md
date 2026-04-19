@@ -26,8 +26,8 @@ A loading indicator is shown while fetching data to enhance user experience.
 
 ## Screenshot
 
-![App Screenshot 1](./assets/screenshot.png)
-![App Screenshot 2](./assets/screenshot2.png)
+![App Screenshot 1](./src/assets/screenshot.png)
+![App Screenshot 2](./src/assets/screenshot2.png)
 
 ---
 
