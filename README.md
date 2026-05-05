@@ -46,4 +46,5 @@ It can be improved further by adding advanced features like routing, pagination,
 
 ## Acknowledgment
 Data fetched from:
+
 https://jsonplaceholder.typicode.com/
